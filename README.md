@@ -33,7 +33,9 @@ The original script for the year 2018 gives the result in 2.421815 seconds.
 In opposite to that, the refactoring script ran the code in 1.304688 seconds for 2018. 
 <p align="center"><img src="https://github.com/zkirsan/Stock-Analysis/blob/main/Challenge/Resources/VBA_Challenge_2018.png"></img></p>
 As a result, it showed that the refactoring script is faster than the original script. 
+
 ### The details of the original script
+
 Sub AllStocksAnalysis()
 
     Dim startTime As Single
