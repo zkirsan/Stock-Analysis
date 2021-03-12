@@ -6,13 +6,13 @@ There is an excel file containing stock data to analyze. It is going to be using
 
 ### Purpose
 The purpose of the project is to analyze some stocks with VBA, which means;
-*to create new worksheets and subroutines for the analysis, 
-*to write readable code, 
-*loop over all tickers, 
-*static and conditional formatting, 
-*to make a run button, 
-*run the analysis for any year, 
-*measure code performance,
+* to create new worksheets and subroutines for the analysis, 
+* to write readable code, 
+* loop over all tickers, 
+* static and conditional formatting, 
+* to make a run button, 
+* run the analysis for any year, 
+* measure code performance,
 In addition to those, there is an using the refactoring method, which provides using less memory, more efficient and readable codes for future users. 
 
 ## Results
