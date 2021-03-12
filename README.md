@@ -18,9 +18,10 @@ In addition to those, there is an using the refactoring method, which provides u
 
 ## Results
 The project has three outputs. 
-DQ Analysis
-All Stocks Analysis
-All Stocks Analysis Refactored
+1. DQ Analysis
+2. All Stocks Analysis
+3. All Stocks Analysis Refactored
+
 The DQ Analysis provides the stock information about the DAQO (Ticker: DQ). Those are the total daily volume and the return in 2018 with a run button. 
 The All Stocks Analysis gives all tickers information, the total daily volume, and the return. There was created an InputBox with a run button accessing any year information. 
 The All stocks Analysis Refactored makes the job of the All Stocks Analysis faster. For example, the code in the All Stocks Analysis ran in 2.476563 seconds for the year 2017. 
