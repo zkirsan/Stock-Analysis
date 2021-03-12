@@ -13,6 +13,7 @@ The purpose of the project is to analyze some stocks with VBA, which means;
 * to make a run button, 
 * run the analysis for any year, 
 * measure code performance,
+
 In addition to those, there is an using the refactoring method, which provides using less memory, more efficient and readable codes for future users. 
 
 ## Results
