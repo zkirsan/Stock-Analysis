@@ -238,11 +238,10 @@ Sub AllStocksAnalysisRefactored()
         Cells(i + 4, 3).Value = tickerEndingPrices(tickerIndex) / tickerStartingPrices(tickerIndex) - 1
     Next i
 
-    
- 
-
-
-		
-
-
 ## Summary
+The advantages of refactoring code are being fast, more efficient, using less memory, and also make it easier and understandable for future users. Also, it gives an easy way to find a solution when you come across a logical error in nested conditionals and loops. Finally, I think the refactoring code is creating a well-structured task.
+The disadvantages of refactoring code are duplicate code, long procedure, and not adding feature or functionality.
+
+To sum up, the refactored VBA script indicated that more efficient and running the code faster when you compared with the original script. 
+Especially, creating an index, and then taking a short procedure makes the refactored script much readable than the original script. 
+
